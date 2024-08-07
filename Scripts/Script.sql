@@ -1,0 +1,1 @@
+INSERT INTO shluha(name, price, age, weigth, heigth) VALUES ('Анжела', 1500, 33, 55, 166)

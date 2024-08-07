@@ -1,0 +1,1 @@
+SELECT_ALL_PRODUCTS = "SELECT * FROM product"

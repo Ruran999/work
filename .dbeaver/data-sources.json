@@ -1,0 +1,35 @@
+{
+	"folders": {},
+	"connections": {
+		"sqlite_jdbc-1911d89d66f-25b5e003066436fe": {
+			"provider": "sqlite",
+			"driver": "sqlite_jdbc",
+			"name": "shluha.db",
+			"save-password": true,
+			"configuration": {
+				"database": "C:\\Users\\KLIM\\PycharmProjects\\pythonProject4\\shluha.db",
+				"url": "jdbc:sqlite:C:\\Users\\KLIM\\PycharmProjects\\pythonProject4\\shluha.db",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"auth-model": "native"
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Разработка",
+			"color": "255,255,255",
+			"description": "База данных для разработки",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"smart-commit": false,
+			"smart-commit-recover": true,
+			"auto-close-transactions": true,
+			"close-transactions-period": 1800,
+			"auto-close-connections": true,
+			"close-connections-period": 14400
+		}
+	}
+}
